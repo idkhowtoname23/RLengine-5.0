@@ -1,1 +1,2 @@
-**/gl.c linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
